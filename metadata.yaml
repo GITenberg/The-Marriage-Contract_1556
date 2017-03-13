@@ -1,5 +1,5 @@
 _repo: The-Marriage-Contract_1556
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wormeley, Katharine Prescott
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '661'
     url: http://www.gutenberg.org/2009/agents/661
     wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -29,6 +32,8 @@ description: "Le Contrat de mariage (English: A Marriage Contract or A Marriage 
   \ Set in Bordeaux, it describes the marriage of a Parisian gentleman, Paul de Manerville,\
   \ to the beautiful but spoiled Spanish heiress, Natalie Evangelista.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1556#The-Marriage-Contract
 gutenberg_issued: '2005-03-12'
 gutenberg_type: Text
 identifiers:
